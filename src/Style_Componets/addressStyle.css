@@ -1,0 +1,9 @@
+.Adress{
+    padding: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: 500;
+}

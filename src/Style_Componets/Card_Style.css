@@ -1,0 +1,13 @@
+.MainCard{
+    background-color: #38938A;
+    width: 30%;
+    height: 60vh;
+    /* border: 1px solid rgb(39, 37, 37); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 8%;
+    flex-direction: column;
+    border-radius: 10px;
+}
